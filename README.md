@@ -6,15 +6,6 @@
 ## Topic Introduction
 In-Domain GAN Inversion을 통해 Inversion, Semantic Diffusion, Interpolation, Manipulation, Style Mixing을 수행할 수 있습니다. 
 GAN Inversion은 입력 이미지와 유사한 결과 이미지를 얻을 수 있도록 하는 latent vector를 찾는 과정을 말합니다. 기존 inversion methods는 타겟 이미지를 픽셀 값에 의해 재구성하는데에 집중하여 기존 latent space의 semantic domain에서 inverted code를 배치시키는데 실패했습니다. 반면 In-Domain GAN inversion은 입력 이미지를 재구성할 뿐만 아니라 semantically meaningful한 latent code로 invert가 가능하도록 하였습니다. 
-**Inversion**
-
-**Semantic Diffusion**
-
-**Interpolation**
-
-**Manipulation**
-
-**Style Mixing**
 
 ## Results
 **Inversion**
