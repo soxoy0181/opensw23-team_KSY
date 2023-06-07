@@ -5,7 +5,9 @@
 
 ## Topic Introduction
 In-Domain GAN Inversion을 통해 Inversion, Semantic Diffusion, Interpolation, Manipulation, Style Mixing을 수행할 수 있습니다. 
-GAN Inversion은 입력 이미지와 유사한 결과 이미지를 얻을 수 있도록 하는 latent vector를 찾는 과정을 말합니다. 기존 inversion methods는 타겟 이미지를 픽셀 값에 의해 재구성하는데에 집중하여 기존 latent space의 semantic domain에서 inverted code를 배치시키는데 실패했습니다. 반면 In-Domain GAN inversion은 입력 이미지를 재구성할 뿐만 아니라 semantically meaningful한 latent code로 invert가 가능하도록 하였습니다. 
+GAN Inversion은 입력 이미지와 유사한 결과 이미지를 얻을 수 있도록 하는 latent vector를 찾는 과정을 말합니다. 기존 inversion methods는 타겟 이미지를 픽셀 값에 의해 재구성하는데에 집중하여 기존 latent space의 semantic domain에서 inverted code를 배치시키는데 실패했습니다. 반면 In-Domain GAN inversion은 입력 이미지를 재구성할 뿐만 아니라 semantically meaningful한 latent code로 invert가 가능하도록 하였습니다.
+
+original github repository: https://github.com/genforce/idinvert_pytorch
 
 ## Results
 **Inversion**
@@ -36,7 +38,7 @@ GAN Inversion은 입력 이미지와 유사한 결과 이미지를 얻을 수 �
 1. face_256x256_generator(https://drive.google.com/file/d/1SjWD4slw612z2cXa3-n38JwKZXqDUerG/view?usp=sharing), face_256x256_encoder(https://drive.google.com/file/d/1gij7xy05crnyA-tUTQ2F3yYlAlu6p9bO/view?usp=sharing), Perceptual Model(https://drive.google.com/file/d/1qQ-r7MYZ8ZcjQQFe17eQfJbOAuE3eS0y/view?usp=sharing)을 다운로드 받은 후 models/pretrain 내에 위치한다.
 2. 원하는 경로로 이동 후, git clone https://github.com/soxoy0181/opensw23-team_KSY.git
 3. cd opensw23-team_KSY
-4. 다음을 입력(수행하기 전에는 examples 폴더는 비워진 상태여야 .)
+4. 다음을 입력(수행하기 전에는 examples 폴더는 비워진 상태여야 함)
 
 **Inversion**
 1) examples 폴더 안에 원하는 이미지를 넣는다.
