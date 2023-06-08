@@ -13,29 +13,21 @@ original github repository: https://github.com/genforce/idinvert_pytorch
 
 **Semantic Diffusion**
 
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/172a9b72-fb56-4fc2-86df-2fc283f22268)
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/b0d1be3e-26c2-48a3-b728-9e27cc3ad32b)
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/a5a6cada-c3c4-4c90-b35d-de92778c48c1)
+![semantic diffusion](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/6639c575-bd96-4a63-b5dd-507bf17b5af0)
+
 
 **Interpolation** 
 
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/8cf49173-ddda-41fb-b323-2154dc152314)
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/0e6d84df-b8d4-46f8-a8c0-0a5ded4563ac)
+![interpolation](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/a46ef077-9618-495d-964f-252798353ed9)
+
 
 **Manipulation**
 
-expression
-
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/bc4b845f-1269-40ba-95e0-9085804a0439)
-
-age
-
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/664c401b-56ca-4b0c-924d-25e216dddc8f)
-
+![manipulation2](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/4edc0e4a-ff66-417f-bc6b-39f2bdefc8d0)
 
 **Style Mixing**
 
-![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/fc0758c2-ab6c-4d30-9a1e-3705f82d060b)
+![style mixing](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/e0d84ddb-8761-42cd-b8bb-18376924ea0e)
 
 
 ## Analysis
