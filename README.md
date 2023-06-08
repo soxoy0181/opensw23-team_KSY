@@ -36,7 +36,10 @@ original github repository: https://github.com/genforce/idinvert_pytorch
 ## Analysis/Visualization
 
 ## Installation
-1. face_256x256_generator(https://drive.google.com/file/d/1SjWD4slw612z2cXa3-n38JwKZXqDUerG/view?usp=sharing), face_256x256_encoder(https://drive.google.com/file/d/1gij7xy05crnyA-tUTQ2F3yYlAlu6p9bO/view?usp=sharing), Perceptual Model(https://drive.google.com/file/d/1qQ-r7MYZ8ZcjQQFe17eQfJbOAuE3eS0y/view?usp=sharing)을 다운로드 받은 후 models/pretrain 내에 위치한다.
+1. 다음 세가지를 다운로드 받은 후 models/pretrain 내에 위치한다.
+- face_256x256_generator(https://drive.google.com/file/d/1SjWD4slw612z2cXa3-n38JwKZXqDUerG/view?usp=sharing)
+- face_256x256_encoder(https://drive.google.com/file/d/1gij7xy05crnyA-tUTQ2F3yYlAlu6p9bO/view?usp=sharing)
+- Perceptual Model(https://drive.google.com/file/d/1qQ-r7MYZ8ZcjQQFe17eQfJbOAuE3eS0y/view?usp=sharing)
 2. 원하는 경로로 이동 후, git clone https://github.com/soxoy0181/opensw23-team_KSY.git
 3. cd opensw23-team_KSY
 4. 다음을 입력(수행하기 전에는 examples 폴더는 비워진 상태여야 함)
