@@ -34,7 +34,7 @@ original github repository: https://github.com/genforce/idinvert_pytorch
 
 ![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/3a58b1d5-974a-44d3-a4e9-e106866e8262)
 ![image](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/ee668edb-f6f2-4a44-8a5e-1de968d10319)
-Semantic Diffusion의 경우, 두 이미지의 얼굴의 방향이 서로 다르거나 앞머리가 있으 나쁜 결과가 발생합니다.
+Semantic Diffusion의 경우, 두 이미지의 얼굴의 방향이 서로 다르거나 앞머리가 있으면 나쁜 결과가 발생합니다.
 
 ## Installation
 1. 원하는 경로로 이동 후, git clone https://github.com/soxoy0181/opensw23-team_KSY.git
