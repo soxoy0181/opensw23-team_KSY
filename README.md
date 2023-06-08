@@ -68,3 +68,4 @@ Semantic Diffusion의 경우, 두 이미지의 얼굴의 방향이 서로 다르
 2) python mix_style.py styleganinv_ffhq256 results/inversion/test results/inversion/test
 
 ## Presentation
+https://youtu.be/DSueIE5sSys
