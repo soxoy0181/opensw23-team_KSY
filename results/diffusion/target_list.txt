@@ -1,2 +1,0 @@
-examples/000001.png
-examples/000002.png
