@@ -11,10 +11,10 @@ original github repository: https://github.com/genforce/idinvert_pytorch
 
 ## Results
 **Inversion**
+![000021_ori](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/521ff120-f8a2-4f5a-9210-deca59d10cbe)
+![000021_enc](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/a8b73770-fe66-4f76-8595-be5cdaf4687b)
+![000021_inv](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/7cbd7bf8-95ac-4d2a-8934-ac8250392bf3)
 
-![000006_ori](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/02b4201d-8576-4deb-a282-851aa5401540)
-![000006_enc](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/5f6a49c0-79d9-468d-83ba-f94d9d083cbf)
-![000006_inv](https://github.com/soxoy0181/opensw23-team_KSY/assets/127181364/6b70623a-a59b-4daa-ac6d-0bdf5f06b98d)
 
 **Semantic Diffusion**
 
